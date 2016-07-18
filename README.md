@@ -8,14 +8,14 @@ health = sqlContext.read.format("com.databricks.spark.csv")\
   .load(dataPath)
   
 
-#Convert to pandas
+###Convert to pandas
 import pandas as pd
 df = health.toPandas()
 #Convert to numpy
 df1 = df.values
 
 
-#Convert to keras format
+###Convert to keras format
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.utils.np_utils import to_categorical
