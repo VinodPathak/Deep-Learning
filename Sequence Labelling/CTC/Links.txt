@@ -9,3 +9,5 @@ https://github.com/yjhong89/Speech-Recognition-CTC
 # CTC Tensorflow Example  
 https://github.com/igormq/ctc_tensorflow_example  
 
+# Tensorflow CTC Speech Recognition  
+https://github.com/philipperemy/tensorflow-ctc-speech-recognition
