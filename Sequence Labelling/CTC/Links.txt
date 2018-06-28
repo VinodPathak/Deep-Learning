@@ -1,1 +1,7 @@
+
+
 https://www.silversparro.com/single-post/2018/01/26/Making-CTCs-Deep-Learning-Function-work-for-Speech-Recognition  
+
+Speech Recognition CTC  
+https://github.com/yjhong89/Speech-Recognition-CTC  
+
