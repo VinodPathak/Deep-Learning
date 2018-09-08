@@ -11,3 +11,7 @@
 
 ### Implement Yolo-v3 Object Detector Pytorch
 > https://www.kdnuggets.com/2018/05/implement-yolo-v3-object-detector-pytorch-part-1.html  
+
+### The fall of rnn and lstm  
+> https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0  
+> https://www.cloudsek.com/announcements/blog/hierarchical-attention-text-classification/  
