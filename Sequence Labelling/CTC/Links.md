@@ -2,6 +2,9 @@
 https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c  
 https://www.silversparro.com/single-post/2018/01/26/Making-CTCs-Deep-Learning-Function-work-for-Speech-Recognition  
 http://www.gitxiv.com/posts/9hLxYvJLCu9Z9N4pK/ctc-connectionist-temporal-classification  
+https://distill.pub/2017/ctc/  
+http://androidkt.com/connectionist-temporal-classification/  
+
 
 # Speech Recognition CTC  
 https://github.com/yjhong89/Speech-Recognition-CTC  
@@ -17,3 +20,4 @@ https://github.com/githubharald/CTCDecoder
 
 # handwritten text Recognition  
 https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5  
+https://github.com/githubharald/SimpleHTR  
