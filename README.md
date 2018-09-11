@@ -27,3 +27,4 @@ http://intelligentonlinetools.com/blog/2018/01/19/machine-learning-stock-predict
 
 ### Predict Bitcoin and Etheream prices using rnn-lstm  
 > https://medium.com/@siavash_37715/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109  
+> https://github.com/umbertogriffo/An-Experiment-On-Predicting-Cryptocurrency-Prices-With-LSTM  
