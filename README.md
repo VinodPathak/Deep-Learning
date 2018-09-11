@@ -18,3 +18,12 @@
 
 ### Keras LSTM Tutorial  
 > http://adventuresinmachinelearning.com/keras-lstm-tutorial/  
+
+### Stock Prediction LSTM  
+> https://www.datacamp.com/community/tutorials/lstm-python-stock-market  
+
+http://intelligentonlinetools.com/blog/2018/01/19/machine-learning-stock-prediction-lstm-keras/  
+
+
+### Predict Bitcoin and Etheream prices using rnn-lstm  
+> https://medium.com/@siavash_37715/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109  
