@@ -15,3 +15,6 @@
 ### The fall of rnn and lstm  
 > https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0  
 > https://www.cloudsek.com/announcements/blog/hierarchical-attention-text-classification/  
+
+### Keras LSTM Tutorial  
+> http://adventuresinmachinelearning.com/keras-lstm-tutorial/  
