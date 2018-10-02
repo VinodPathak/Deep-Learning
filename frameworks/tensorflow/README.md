@@ -8,3 +8,4 @@ https://github.com/tensorflow/tensorboard
 ### Face Similarity
 https://medium.freecodecamp.org/how-to-train-your-own-faceid-cnn-using-tensorflow-eager-execution-6905afe4fd5a  
 https://github.com/sthalles/face-similarity  
+https://stackoverflow.com/questions/50098971/whats-the-difference-between-gradienttape-implicit-gradients  
