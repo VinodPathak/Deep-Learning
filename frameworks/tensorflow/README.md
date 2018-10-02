@@ -9,3 +9,4 @@ https://github.com/tensorflow/tensorboard
 https://medium.freecodecamp.org/how-to-train-your-own-faceid-cnn-using-tensorflow-eager-execution-6905afe4fd5a  
 https://github.com/sthalles/face-similarity  
 https://stackoverflow.com/questions/50098971/whats-the-difference-between-gradienttape-implicit-gradients  
+http://conteudo.icmc.usp.br/pessoas/moacir/p17sibgrapi-tutorial/2017-SIBGRAPI_Tutorial-DLCV-Part2-Regression-Deep-Learning-Siamese_and_Triplet_Nets.pdf  
