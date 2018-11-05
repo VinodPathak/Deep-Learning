@@ -31,3 +31,5 @@ https://sandipanweb.wordpress.com/2017/11/25/some-deep-learning-with-python-tens
 https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607  
 https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/  
 https://hackernoon.com/learning-keras-by-implementing-vgg16-from-scratch-d036733f2d5  
+https://keunwoochoi.wordpress.com/2017/08/24/tip-fit_generator-in-keras-how-to-parallelise-correctly/  
+https://blog.scottlogic.com/2018/10/25/a-developers-intro-tensorflow-and-keras.html  
