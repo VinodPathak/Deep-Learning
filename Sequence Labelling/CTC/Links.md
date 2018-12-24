@@ -5,6 +5,9 @@ http://www.gitxiv.com/posts/9hLxYvJLCu9Z9N4pK/ctc-connectionist-temporal-classif
 https://distill.pub/2017/ctc/  
 http://androidkt.com/connectionist-temporal-classification/  
 
+##### Beam Search  
+> https://hackernoon.com/beam-search-a-search-strategy-5d92fb7817f  
+>
 
 # Speech Recognition CTC  
 https://github.com/yjhong89/Speech-Recognition-CTC  
