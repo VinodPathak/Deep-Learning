@@ -1,5 +1,6 @@
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-tensorflow-on-ubuntu-16-04  
-
+##### The 25 Best Data Science and Machine Learning GitHub Repositories from 2018
+> https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/  
 
 https://blog.floydhub.com/checkpointing-tutorial-for-tensorflow-keras-and-pytorch/  
 
