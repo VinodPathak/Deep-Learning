@@ -11,7 +11,8 @@ http://www.datasciencecourse.org/tutorials/
 5. https://github.com/jfsantos/keras-tutorial/tree/master/notebooks  
 6. https://github.com/tgjeon/Keras-Tutorials  
 
-
+##### Save and load keras deep learning models  
+https://www.pyimagesearch.com/2018/12/10/keras-save-and-load-your-deep-learning-models/
 https://gist.github.com/dusenberrymw/b3268ac795ff9e48acebfc798a4045b7  
 https://gist.github.com/dusenberrymw/05c8543e4b05a7c143bbb014fd3d6bcb  
 https://github.com/floydhub/save-and-resume  
