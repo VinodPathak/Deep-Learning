@@ -1,6 +1,6 @@
 ## How groups work in PyTorch convolutions
 
-! [Group Convolution](https://user-images.githubusercontent.com/22738317/32132612-f5294242-bbc6-11e7-9406-3419a2e504cf.png)
+![Group Convolution](https://user-images.githubusercontent.com/22738317/32132612-f5294242-bbc6-11e7-9406-3419a2e504cf.png)
 
 - https://mc.ai/how-groups-work-in-pytorch-convolutions/
 
