@@ -7,5 +7,21 @@
   
 - nn
   - Flatten
-  - 
+
+- nn.utils.data
+  - DataLoader
+  - Dataset
+  - Subset
+  - random_split
+  - Sampler
+  - RandomSampler
+  - SubsetRandomSampler
+
+- torch.utils.tensorboard.writer.SummaryWriter(https://pytorch.org/docs/stable/tensorboard.html)
+
+- optim
+  - https://pytorch.org/docs/stable/optim.html
+  
+- 
+
     
