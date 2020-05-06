@@ -1,0 +1,4 @@
+- https://ruder.io/optimizing-gradient-descent/index.html#momentum
+- https://cs231n.github.io/optimization-1/
+- https://github.com/TDehaene/blogposts/blob/master/learning_rates/notebooks/Model%20training.ipynb
+- https://towardsdatascience.com/stochastic-gradient-descent-with-momentum-a84097641a5d
