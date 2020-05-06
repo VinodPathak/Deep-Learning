@@ -35,3 +35,6 @@
   # similarly for SGD as well
   torch.optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-5)
   ```
+
+### References
+- https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
