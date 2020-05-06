@@ -38,3 +38,4 @@
 
 ### References
 - https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
+- https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/
